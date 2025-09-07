@@ -13,7 +13,7 @@ Bitte eröffnen Sie ein Issue, um neue Funktionen oder Verbesserungen zu besprec
 5. Pushen Sie zum Branch (`git push origin feature/NeueFunktion`).
 6. Erstellen Sie einen neuen Pull-Request.
 
-Bitte stellen Sie sicher, dass Ihre Änderungen die bestehenden Tests bestehen.
+Bitte stellen Sie sicher, dass Ihre Änderungen die bestehenden Tests bestehen und dokumentiert sind.
 
 ## Code-Stil
 Halten Sie sich an den in diesem Projekt verwendeten Code-Stil, um Konsistenz zu gewährleisten.
