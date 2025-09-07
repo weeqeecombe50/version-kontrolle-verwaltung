@@ -1,0 +1,12 @@
+{
+  "name": "version-kontrolle-verwaltung",
+  "version": "1.0.0",
+  "description": "Ein umfassendes Tool zur Verwaltung und Überwachung von Versionskontrollsystemen.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
