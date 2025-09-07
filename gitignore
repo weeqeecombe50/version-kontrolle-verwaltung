@@ -1,4 +1,3 @@
 *.log
 .env
 .env.local
-test-coverage/
